@@ -16,7 +16,7 @@ body {
     from{        
     }
     to{
-        transform: translateY(100vh);
+        transform: translateY(80vh);
         opacity: 0;   /*opacity == 불투명도*/     
     }
 }
