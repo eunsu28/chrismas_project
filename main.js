@@ -1,6 +1,6 @@
 const body = document.querySelector("body");
 const MIN_DURATION = 10; //최소 지속 시간
-const width = window.screen.width + 100;
+const width = window.screen.width + 10;
 
 function makeSnowflake() {
     const snowflake = document.createElement("div");
